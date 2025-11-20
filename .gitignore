@@ -1,5 +1,6 @@
 # Data
-/data/external
+data/external/snomed/
+external_libs/PyMedTermino-0.3.2/build/
 
 # Mac OS-specific storage files
 .DS_Store
